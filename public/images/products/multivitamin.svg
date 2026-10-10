@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="MULTI VITAMIN illustration"><defs>
+  <linearGradient id="ob" x1="0" x2="1"><stop offset="0" stop-color="#e9ecef"/><stop offset=".55" stop-color="#ffffff"/><stop offset="1" stop-color="#e9ecef"/></linearGradient>
+  <linearGradient id="os" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity=".0"/><stop offset=".3" stop-color="#fff" stop-opacity=".28"/><stop offset=".45" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs><ellipse cx="200" cy="352" rx="120" ry="14" fill="#000" opacity=".18"/>
+<rect x="152" y="70" width="96" height="44" rx="8" fill="#1d6b4f"/>
+<path d="M160 112h80v14c30 8 46 26 46 52v156a16 16 0 0 1-16 16H130a16 16 0 0 1-16-16V178c0-26 16-44 46-52z" fill="url(#ob)"/>
+<path d="M160 112h80v14c30 8 46 26 46 52v156a16 16 0 0 1-16 16H130a16 16 0 0 1-16-16V178c0-26 16-44 46-52z" fill="url(#os)"/>
+<rect x="126" y="196" width="148" height="86" rx="10" fill="#0d0f0e" opacity=".9"/>
+<rect x="126" y="196" width="10" height="86" rx="4" fill="#2fbf71"/>
+<text x="204" y="238" text-anchor="middle" font-family="'Barlow Condensed','Arial Narrow',Arial,sans-serif" font-weight="800" font-size="33" fill="#fff" letter-spacing="1">MULTI</text>
+<text x="204" y="266" text-anchor="middle" font-family="'Barlow Condensed','Arial Narrow',Arial,sans-serif" font-weight="600" font-size="18" fill="#2fbf71" letter-spacing="2">VITAMIN</text>
+<g fill="#2fbf71"><circle cx="176" cy="320" r="7"/><circle cx="200" cy="320" r="7"/><circle cx="224" cy="320" r="7"/></g></svg>

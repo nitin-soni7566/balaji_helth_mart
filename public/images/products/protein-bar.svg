@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="PROTEIN BAR illustration"><defs>
+  <linearGradient id="bb" x1="0" x2="1"><stop offset="0" stop-color="#7a3d1a"/><stop offset=".55" stop-color="#b8662f"/><stop offset="1" stop-color="#7a3d1a"/></linearGradient>
+  <linearGradient id="bs" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity=".0"/><stop offset=".3" stop-color="#fff" stop-opacity=".28"/><stop offset=".45" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs><ellipse cx="200" cy="352" rx="120" ry="14" fill="#000" opacity=".18"/>
+<g transform="rotate(-14 200 200)">
+<rect x="70" y="214" width="260" height="70" rx="12" fill="#7a3d1a" opacity=".7"/>
+</g>
+<g transform="rotate(-8 200 200)">
+<path d="M60 150l12-6 12 6 12-6v104l-12 6-12-6-12 6z" fill="#7a3d1a"/>
+<rect x="84" y="144" width="236" height="110" rx="10" fill="url(#bb)"/>
+<rect x="84" y="144" width="236" height="110" rx="10" fill="url(#bs)"/>
+<path d="M320 150l12-6 12 6 12-6v104l-12 6-12-6-12 6z" fill="#7a3d1a"/>
+<rect x="104" y="160" width="196" height="78" rx="8" fill="#0d0f0e" opacity=".9"/>
+<rect x="104" y="160" width="10" height="78" rx="4" fill="#ffb27a"/>
+<text x="207" y="203" text-anchor="middle" font-family="'Barlow Condensed','Arial Narrow',Arial,sans-serif" font-weight="800" font-size="36" fill="#fff" letter-spacing="1">PROTEIN</text>
+<text x="207" y="228" text-anchor="middle" font-family="'Barlow Condensed','Arial Narrow',Arial,sans-serif" font-weight="600" font-size="17" fill="#ffb27a" letter-spacing="3">BAR</text>
+</g></svg>

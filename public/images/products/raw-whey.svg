@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="RAW WHEY illustration"><defs>
+  <linearGradient id="pb" x1="0" x2="1"><stop offset="0" stop-color="#d9d4c7"/><stop offset=".55" stop-color="#f3efe6"/><stop offset="1" stop-color="#d9d4c7"/></linearGradient>
+  <linearGradient id="ps" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity=".0"/><stop offset=".3" stop-color="#fff" stop-opacity=".28"/><stop offset=".45" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs><ellipse cx="200" cy="352" rx="120" ry="14" fill="#000" opacity=".18"/>
+<path d="M118 70h164l10 40-6 230c0 6-5 12-12 12H126c-7 0-12-6-12-12l-6-230z" fill="url(#pb)"/>
+<path d="M118 70h164l10 40-6 230c0 6-5 12-12 12H126c-7 0-12-6-12-12l-6-230z" fill="url(#ps)"/>
+<rect x="114" y="98" width="172" height="5" rx="2" fill="#000" opacity=".2"/>
+<rect x="126" y="168" width="148" height="88" rx="10" fill="#0d0f0e" opacity=".9"/>
+<rect x="126" y="168" width="10" height="88" rx="4" fill="#c6f432"/>
+<text x="204" y="212" text-anchor="middle" font-family="'Barlow Condensed','Arial Narrow',Arial,sans-serif" font-weight="800" font-size="36" fill="#fff" letter-spacing="1">RAW</text>
+<text x="204" y="240" text-anchor="middle" font-family="'Barlow Condensed','Arial Narrow',Arial,sans-serif" font-weight="600" font-size="18" fill="#c6f432" letter-spacing="2">WHEY</text>
+<path d="M140 312h120" stroke="#c6f432" stroke-width="6" stroke-linecap="round"/></svg>

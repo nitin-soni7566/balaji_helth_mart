@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="OMEGA-3 FISH OIL illustration"><defs>
+  <linearGradient id="ob" x1="0" x2="1"><stop offset="0" stop-color="#c9a227"/><stop offset=".55" stop-color="#f0cf5a"/><stop offset="1" stop-color="#c9a227"/></linearGradient>
+  <linearGradient id="os" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity=".0"/><stop offset=".3" stop-color="#fff" stop-opacity=".28"/><stop offset=".45" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs><ellipse cx="200" cy="352" rx="120" ry="14" fill="#000" opacity=".18"/>
+<rect x="152" y="70" width="96" height="44" rx="8" fill="#20262a"/>
+<path d="M160 112h80v14c30 8 46 26 46 52v156a16 16 0 0 1-16 16H130a16 16 0 0 1-16-16V178c0-26 16-44 46-52z" fill="url(#ob)"/>
+<path d="M160 112h80v14c30 8 46 26 46 52v156a16 16 0 0 1-16 16H130a16 16 0 0 1-16-16V178c0-26 16-44 46-52z" fill="url(#os)"/>
+<rect x="126" y="196" width="148" height="86" rx="10" fill="#0d0f0e" opacity=".9"/>
+<rect x="126" y="196" width="10" height="86" rx="4" fill="#ffd85a"/>
+<text x="204" y="238" text-anchor="middle" font-family="'Barlow Condensed','Arial Narrow',Arial,sans-serif" font-weight="800" font-size="23" fill="#fff" letter-spacing="1">OMEGA-3</text>
+<text x="204" y="266" text-anchor="middle" font-family="'Barlow Condensed','Arial Narrow',Arial,sans-serif" font-weight="600" font-size="16" fill="#ffd85a" letter-spacing="2">FISH OIL</text>
+<g fill="#ffd85a"><circle cx="176" cy="320" r="7"/><circle cx="200" cy="320" r="7"/><circle cx="224" cy="320" r="7"/></g></svg>

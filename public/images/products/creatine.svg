@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="CREATINE MONOHYDRATE illustration"><defs>
+  <linearGradient id="tb" x1="0" x2="1"><stop offset="0" stop-color="#1d2b4a"/><stop offset=".55" stop-color="#2f4475"/><stop offset="1" stop-color="#1d2b4a"/></linearGradient>
+  <linearGradient id="ts" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity=".0"/><stop offset=".3" stop-color="#fff" stop-opacity=".28"/><stop offset=".45" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs><ellipse cx="200" cy="352" rx="120" ry="14" fill="#000" opacity=".18"/>
+<rect x="100" y="78" width="200" height="40" rx="10" fill="#e8edf5"/>
+<rect x="96" y="110" width="208" height="14" rx="5" fill="#e8edf5" opacity=".85"/>
+<path d="M104 124h192l-8 214a14 14 0 0 1-14 13H126a14 14 0 0 1-14-13z" fill="url(#tb)"/>
+<path d="M104 124h192l-8 214a14 14 0 0 1-14 13H126a14 14 0 0 1-14-13z" fill="url(#ts)"/>
+<rect x="122" y="178" width="156" height="92" rx="10" fill="#0d0f0e" opacity=".9"/>
+<rect x="122" y="178" width="10" height="92" rx="4" fill="#7cc4ff"/>
+<text x="204" y="226" text-anchor="middle" font-family="'Barlow Condensed','Arial Narrow',Arial,sans-serif" font-weight="800" font-size="22" fill="#fff" letter-spacing="1">CREATINE</text>
+<text x="204" y="254" text-anchor="middle" font-family="'Barlow Condensed','Arial Narrow',Arial,sans-serif" font-weight="600" font-size="13" fill="#7cc4ff" letter-spacing="2">MONOHYDRATE</text>
+<circle cx="200" cy="318" r="10" fill="#7cc4ff"/></svg>

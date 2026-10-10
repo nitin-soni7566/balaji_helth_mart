@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="BULK SUPPLY illustration"><ellipse cx="200" cy="352" rx="120" ry="14" fill="#000" opacity=".18"/>
+<path d="M200 96l132 52v150l-132 54-132-54V148z" fill="#c9a26b"/>
+<path d="M68 148l132 52v152L68 298z" fill="#9c7a4b"/>
+<path d="M200 200l132-52v150l-132 54z" fill="#c9a26b" opacity=".85"/>
+<path d="M200 96l132 52-132 52-132-52z" fill="#c9a26b" opacity=".7"/>
+<path d="M134 122l132 52" stroke="#c6f432" stroke-width="10"/>
+<g transform="matrix(1 .394 0 1 68 148)">
+<rect x="18" y="40" width="96" height="70" rx="6" fill="#0d0f0e" opacity=".9"/>
+<text x="66" y="78" text-anchor="middle" font-family="'Barlow Condensed','Arial Narrow',Arial,sans-serif" font-weight="800" font-size="28" fill="#fff">BULK</text>
+<text x="66" y="100" text-anchor="middle" font-family="'Barlow Condensed','Arial Narrow',Arial,sans-serif" font-weight="600" font-size="14" fill="#c6f432" letter-spacing="2">SUPPLY</text>
+</g></svg>
